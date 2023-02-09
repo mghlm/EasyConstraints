@@ -1,6 +1,6 @@
 # EasyConstraints
 
-EasyConstraints is a DSL to make Auto Layout easy on both iOS and OS X.
+EasyConstraints is a lightweight library to make Auto Layout easy on iOS.
 
 - [Requirements](#requirements)
 - [Installation](#installation)
