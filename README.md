@@ -1,6 +1,6 @@
 # EasyConstraints
 
-SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
+EasyConstraints is a DSL to make Auto Layout easy on both iOS and OS X.
 
 - [Requirements](#requirements)
 - [Installation](#installation)
