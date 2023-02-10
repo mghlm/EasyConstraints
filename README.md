@@ -54,6 +54,7 @@ class SomeViewController: UIViewController {
         
         self.view.addSubview(topStackedSquare)
         self.view.addSubview(bottomStackedSquare)
+	rightAlignedSquare.match(100, on: .size)
         [topStackedSquare, bottomStackedSquare].stackVertically(spacing: 4)
     }
 }
